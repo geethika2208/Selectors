@@ -1,0 +1,12 @@
+div{
+    background-color:green;
+    color: black;
+    width: 500px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+
+}
+.card2:hover{
+    background-color:red;
+}
